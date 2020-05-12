@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54fb9c9eac3148b09f9ec34ecfbde596)](https://app.codacy.com/manual/fxbin/disruptor-study?utm_source=github.com&utm_medium=referral&utm_content=fxbin/disruptor-study&utm_campaign=Badge_Grade_Dashboard)
+
 Disruptor 学习 Demo
 
 
